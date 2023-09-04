@@ -26,3 +26,4 @@ echo 20-hiago is a script that removes all letters c and C from input.
 22-users_and_home is a script that displays all users and their home directories, sorted by users.
 
 Based on the the /etc/passwd file
+100-empty_casks is a a command that finds all empty files and directories in the current directory and all sub-directories.
