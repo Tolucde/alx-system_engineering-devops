@@ -23,3 +23,6 @@ echo 20-hiago is a script that removes all letters c and C from input. >> README
 echo 20-hiago is a script that removes all letters c and C from input.
 20-hiago is  a script that removes all letters c and C from input
 21-reverse is  a script that reverse its input.
+22-users_and_home is a script that displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file
